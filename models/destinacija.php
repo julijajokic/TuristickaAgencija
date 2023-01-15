@@ -1,4 +1,4 @@
-<?php
+/*<?php
 
 class Destinacija {
 
@@ -25,4 +25,5 @@ class Destinacija {
     }
 
 }
+*/
 
